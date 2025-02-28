@@ -1,5 +1,5 @@
 
-# `Tourism Management System` - TWS ( Travel With Shivam )  - Project
+# `Tourism Management System`
 
 
 ## Abstract -
